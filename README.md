@@ -1,6 +1,6 @@
 # quant-research-agents
 
-Reusable instructions for disciplined quantitative research with Codex. The repository was developed independently for Gator Quant Hacks 2026, where the team placed third in the systematic trading track.
+Reusable instructions for disciplined quantitative research with Codex. The repository was developed independently for Gator Quant Hacks 2026, specifically for the systematic trading track.
 
 The project contains a research governance guide and 12 focused skills for planning, implementing, checking, and reporting systematic trading research. It does not include a trading strategy, market data, an executable backtester, or recorded performance results. Treat each signal as an unproven hypothesis.
 
